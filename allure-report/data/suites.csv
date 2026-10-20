@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","6515","client order for ADIDAS ORIGINAL","","2026-10-18","passed","2026-10-18","","ClientAppsPO.spec.js","",""
+"","9190","@Web Browser Context Playwright test","","2026-10-18","passed","2026-10-18","","UIBasicTest.spec.js","",""
+"","7252","client order for ZARA COAT 3","","2026-10-18","passed","2026-10-18","","ClientAppsPO.spec.js","",""
+"","1644","@Web Page Context Playwright test","","2026-10-18","passed","2026-10-18","","UIBasicTest.spec.js","",""
